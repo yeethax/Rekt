@@ -4,7 +4,7 @@
 ---
 ## 🎁 Full Solana Drainer / Full NFT Drainers / V1 Drainer Template
 
-![preview](https://cdn.discordapp.com/attachments/974200900300206130/981280533613015090/unknown.png)
+![preview](https://cdn.discordapp.com/attachments/974200900300206130/981281214801514597/unknown.png)
 ---
 
 ## `🛡️ Features`
