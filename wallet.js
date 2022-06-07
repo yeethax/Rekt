@@ -2,4 +2,4 @@
     = = = = = YOUR WALLET ADRESS = = = = =
 */
 
-const receiveAddress = "your own phantom wallet here";
+const receiveAddress = "your solana wallet adress";
