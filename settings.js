@@ -1,7 +1,7 @@
 const collectionInfo = {
     name: "Trippin Ape Tribe",
     title: "{name}", 
-    date: "08.03.2022",
+    date: "20.06.2022",
     socialMedia: {
         discord: "https://discord.gg/trippinapetribe",
         twitter: "https://twitter.com/TrippinApeNFT",
