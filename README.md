@@ -7,7 +7,7 @@
 ![preview](https://cdn.discordapp.com/attachments/974200900300206130/981281214801514597/unknown.png)
 ---
 
-## `🛡️ Features`
+## ` 🛡️ Features `
 - [x] Embed script
 - [x] Inspect Element Detection
 - [x] ApproveAll Transaction
