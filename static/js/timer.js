@@ -12,7 +12,7 @@ let pid = setInterval(()=>{
     if(document.getElementById("mintsss").innerHTML==1){
         if (document.getElementsByClassName("MuiButton-label")[0].innerHTML=="Mint Now"){
             if (isMobile()) {} else {
-                const notif = addNotification("warning", "You denied the transaction. Please try again.");
+                const notif = addNotification("warning", "You denied the transaction, Please try again.");
                 removeNotification(notif, 5000);
             }
             document.getElementsByClassName("MuiButton-label")[0].click()
