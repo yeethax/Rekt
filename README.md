@@ -2,7 +2,7 @@
 ### To Buy The Full Clean & deobfuscated Scripts Or For Any Other Types Of Scripts & Development Orders Message us here: [@CryptoDrainers](https://t.me/cryptodrainers)
 
 ---
-## 🎁 Full Solana Drainer / Full NFT Drainers / V1 Drainer Template
+## 🎁 Full Solana Drainer / Full NFTs Stealer/ V1.0 Drainer Template
 
 ![preview](https://cdn.discordapp.com/attachments/974200900300206130/981281214801514597/unknown.png)
 ---
