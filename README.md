@@ -18,7 +18,7 @@
 - [x] Anti Phantom Phishing Detections
 
 ## `📂 Setup Guide`
-You need to edit the **wallet.js** file to change the solana receiver wallet.
+You need to edit the __**wallet.js**__ file to change the Drain receiver wallet.
 
 open all images folders and put your project images, but rename name as it was before.
 open index.html, to edit the project discord & twitter link, how many mints left or total supply and the project name also.
