@@ -1,4 +1,4 @@
-# ** 🧙🏼 Welcome! *Beware of [scams](https://github.com/captaingreem/Skid-Scammers-list), this is the official repo**
+# ** 🧙🏼 Welcome! ** *Beware of [scams](https://github.com/captaingreem/Skid-Scammers-list), this is the official repo*
 ### 📩 You need to host it on a real website for it to work (recommended: Hostinger, Netlify, Vercel)
 
 ---
