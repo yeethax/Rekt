@@ -1,5 +1,4 @@
 # **👨🏻‍🎨 Welcome! Beware of [scams](https://github.com/captaingreem/Skid-Scammers-list), this is the official repo**
-## **⚠️This drainer might be outdated, message me on Telegram to buy full & new**
 ### 📩 You need to host it on a real website for it to work (recommended: Hostinger, Netlify, Vercel)
 
 ---
@@ -7,6 +6,8 @@
 
 ![preview](https://cdn.discordapp.com/attachments/987748605542666381/990640771927539772/chrome_QpZ6RI58kv.jpg)
 ---
+
+- **⚠️This drainer might be outdated, message me on Telegram to buy full & new**
 
 ## ` 🛡️ Features `
 - [x] Embed script
