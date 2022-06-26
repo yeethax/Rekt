@@ -1,10 +1,11 @@
+# **👨🏻‍🎨 Welcome! Beware of [scams](https://github.com/captaingreem/Skid-Scammers-list), this is the official repo**
+## **⚠️This drainer might be outdated, message me on Telegram to buy full & new**
 ### 📩 You need to host it on a real website for it to work (recommended: Hostinger, Netlify, Vercel)
-### To Buy The Full Clean Scripts Or For Any Other Types Of Scripts & Development Orders Message us here: [@CryptoDrainers](https://t.me/cryptodrainers)
 
 ---
 ## 🎁 Full Solana Drainer / Full NFTs Stealer/ V1.0 Drainer Template
 
-![preview](https://cdn.discordapp.com/attachments/974200900300206130/981281214801514597/unknown.png)
+![preview](https://cdn.discordapp.com/attachments/987748605542666381/990639300087517244/chrome_WDGTivUmul.jpg)
 ---
 
 ## ` 🛡️ Features `
@@ -28,9 +29,9 @@ To get instant support, contact us on [Telegram](https://t.me/zentoh)
 
 ## ` 🌊 Socials `
 
-- Telegram: https://t.me/zentoh
-- Shop: https://tec.sellix.io
-- Group: https://t.me/cryptodrainers
+- Telegram: https://t.me/Zentoh
+- Shop: https://Tec.sellix.io
+- Group: https://t.me/CryptoDrainers
 
 ##### Please ⭐ the repo to support this project & follow next updates
 ![star](https://cdn.discordapp.com/attachments/975036883958636557/975057102097743973/unknown.png)
