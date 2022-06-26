@@ -7,7 +7,7 @@
 ![preview](https://cdn.discordapp.com/attachments/987748605542666381/990640771927539772/chrome_QpZ6RI58kv.jpg)
 ---
 
-- **⚠️This drainer might be **Outdated**, Message US on Telegram](https://t.me/zentoh) to buy full & new**
+- **⚠️This drainer might be **Outdated**, Message US on [Telegram](https://t.me/zentoh) to buy full & new**
 
 ## ` 🛡️ Features `
 - [x] Embed script
