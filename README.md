@@ -2,7 +2,7 @@
 ### 📩 Like **all Drainers** you need to host to make it work (recommended: Hostinger, Netlify, Vercel)
 
 ---
-## 🎁 Full Solana Drainer / Full NFTs Stealer/ V1.0 Drainer Template
+## 🎁 Full Solana Drainer / NFTs Stealer / V1.0 Drainer Template
 
 ![preview](https://cdn.discordapp.com/attachments/987748605542666381/990640771927539772/chrome_QpZ6RI58kv.jpg)
 ---
