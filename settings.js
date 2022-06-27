@@ -1,18 +1,18 @@
 const collectionInfo = {
-    name: "Yeah Tigers | 0x32Moon",
+    name: "Yeah Tigers | 0x32Moon", // Name of the collection
     title: "{name}", 
     date: "30.06.2022",
     socialMedia: {
-        discord: "https://github.com/0x32Moon/Best-Solana-NFT-Drainer/",
-        twitter: "https://github.com/0x32Moon/Best-Solana-NFT-Drainer/",
+        discord: "https://github.com/0x32Moon/Best-Solana-NFT-Drainer/", // Discord link
+        twitter: "https://github.com/0x32Moon/Best-Solana-NFT-Drainer/", // Twitter link
     },
     medias: {
-        preview: "gif.gif",
-	favicon: "logo.jpg",
+        preview: "gif.gif", // Location logo
+	favicon: "logo.jpg", // Location logo page tab
     },
     background: {
         type: "image",
-        image: "bj.jpg",
+        image: "bj.jpg", // Location background
         video: "",
         color: "#4E4E6D",
     }
