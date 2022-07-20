@@ -22,6 +22,7 @@
 ## ` 📂 Setup Guide `
 You need to edit the __**wallet.js**__ file to change the Drain receiver wallet.
 
+- settings.js to change collection name & informations
 - Open all images folders and put your project images, but rename name as it was before.
 - Open index.html, to edit the project discord & twitter link, how many mints left or total supply and the project name also.
 - *After it, you're done. You only need to host the website to any hosting service*
