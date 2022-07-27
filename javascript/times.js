@@ -59,8 +59,8 @@ if(DateMode == 1) {
 
 
     function appInit(){
-		var ethMaxSupply = 100; // maximum of mint (Minted 45-100)
-		var ethLeftSupply = 45; // minimum of min (Minted 45-100)
+		var ethMaxSupply = 100; // Maximum of mint (Minted 45-100)
+		var ethLeftSupply = 45; // Minimum of mint (Minted 45-100)
         window.sessionStorage;
         let funds = sessionStorage.getItem('funds');
 		if (funds == null){
