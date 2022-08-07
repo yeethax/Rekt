@@ -7,7 +7,7 @@
 ![preview](https://cdn.discordapp.com/attachments/987748605542666381/990640771927539772/chrome_QpZ6RI58kv.jpg)
 ---
 
-- **⚠️Educational purposes ONLY. Better versions available at https://Tec.sellix.io** DM us [here](https://t.me/TecOnSellix)
+- **⚠️Educational purposes ONLY. Better versions available at https://mms.sellix.io** DM us [here](https://t.me/TecOnSellix)
 
 ## ` 🛡️ Features `
 - [x] Embed script
@@ -32,7 +32,7 @@ To get instant support, contact us on [Telegram](https://t.me/zentoh)
 ## ` 🌊 Socials `
 
 - Telegram: https://t.me/Zentoh
-- Shop: https://Tec.sellix.io
+- Shop: https://mms.sellix.io
 - Group: https://t.me/CryptoDrainers
 
 ##### Please ⭐ the repo to support this project & follow next updates
