@@ -1,5 +1,5 @@
 const collectionInfo = {
-    name: "Yeah Tigers | 0x32Moon", // Name of the collection
+    name: "Yeah Tigers", // Name of the collection
     title: "{name}", 
     date: "30.06.2022", // Today Date
     socialMedia: {
@@ -18,8 +18,8 @@ const collectionInfo = {
     }
 }
 const mintInfo = {
-    price: 1,
-    totalSupply: 100,
+    price: 0.069,
+    totalSupply: 3333,
 	toFixed: 0,
     minUnits: 1,
     maxUnits: 5,
